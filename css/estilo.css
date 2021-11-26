@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+.campo {
+    background-color: gray;
+    width: 450px;
+    padding: 50px;
+    box-shadow: 10px 10px 5px rgb(34, 31, 31);
+    border-radius: 50px;
+    text-align: center;
+}
+.titulo {
+    width: 273px;
+   box-shadow: 0px 0px 5px silver;
+   padding: 5px;
+   text-align: center;
+   border-radius: 20px;
+
+}
+
+.temperatura {
+    width: 400px;
+    padding: 5px;
+    margin-top: 5%;
+    box-shadow: 0px 0px 5px silver;
+    border-radius: 20px;
+}
